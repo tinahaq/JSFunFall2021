@@ -6,7 +6,7 @@
 2. Slack
 3. Xcode
 4. Homebrew
-5. Git
+5. Git & Github
 6. Node.js (latest) and NPM Packages
 7. Visual Studio Code (Recommended) and Plugins
 8. Chrome or Firefox (Recommended)
@@ -16,6 +16,8 @@ We are going to install software over the command line, so before starting, open
 ## Microsoft Teams
 
 Before class began, you should have received emails and training from AlbanyCanCode about on how to install, setup, and use Microsoft Teams.
+
+You will need to give Teams permissions for _Screen Recording_, because we ask students to share their screens during class. [Here is how you can enable this on Big Sur and Catalina.](https://www.marquette.edu/microsoft-teams/teams-macos-access.php)
 
 ## Slack
 
@@ -49,7 +51,7 @@ Type `echo $PATH`. Make sure that _/usr/local/bin_ is somewhere in the response.
 export PATH="/usr/local/bin:$PATH"
 ```
 
-## Git
+## Git && Github
 
 Git is version control software. It is used for sharing code, combining team members' code and managing different versions of your code.
 
@@ -62,6 +64,13 @@ brew install git
 ```
 
 When it's finished, type `git --version` to confirm that it has installed.
+
+You will need to [create a Github account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you do not have one. Once you have an account, you will need to configure your Github username and email address on your Mac. In your terminal, type:
+
+```bash
+git config --global user.name "YOUR-USERNAME"
+git config --global user.email "your@email.com”
+```
 
 ## Node.js and NPM Packages
 

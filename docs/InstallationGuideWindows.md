@@ -5,7 +5,7 @@
 1. Microsoft Teams
 2. Slack
 3. Visual Studio Code (Recommended) and Plugins
-4. Git for Windows
+4. Git for Windows && Github
 5. Node.js (latest) and NPM Packages
 6. Chrome or Firefox (Recommended)
 
@@ -31,7 +31,7 @@ When it finishes downloading, double click on the downloaded _.exe_ file and acc
 
 Continue with the installer. When it finishes, Visual Studio Code should open. When it does, close out of it for now. We will revisit Visual Studio Code once we finish installing a few dependencies.
 
-## Git for Windows
+## Git for Windows && Github
 
 **We would like you to install Git Bash because it supports Unix style commands. If you have Git installed but not Git Bash, then you should remove Git and follow the instruction below to reinstall.**
 
@@ -58,6 +58,15 @@ We recommend you select _Use Visual Studio Code as Git's default editor_ from th
 To avoid unnecessary merge conflicts (believe me, merge conflicts are very frustrating), please make sure _Checkout Windows-style, commit Unix-style line endings_ is selected.
 
 When you finish installing, you should see Git Bash on your computer. Open it, type `git --version` to confirm that it works. You should see something like _git version 2.33.0_. Then close out of Git Bash.
+
+### Github
+
+You will need to [create a Github account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you do not have one. Once you have an account, you will need to configure your Github username and email address on your Window's machine. In your terminal, type:
+
+```bash
+git config --global user.name "YOUR-USERNAME"
+git config --global user.email "your@email.com”
+```
 
 ## Node.js and NPM Packages
 
@@ -93,7 +102,7 @@ When it’s finished, type `eslint -v` to confirm that it has installed.
 
 ### Setting Git Bash as your Default Shell
 
-In Visual Studio Code, press `ctrl+shift+p`, search for _default shell_ and select _Terminal: Select Default Shell_. Then choose _Git Bash_.
+In Visual Studio Code, press `ctrl+shift+p`, search for _terminal_ and select _Terminal: Select Default Profile_. Then choose _Git Bash_.
 
 ![](install-screens/vscode-windows-shell.png)
 
