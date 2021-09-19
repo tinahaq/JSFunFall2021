@@ -1,0 +1,28 @@
+{
+  "name": "JSFunFall2021",
+  "version": "1.0.0",
+  "description": "AlbanyCanCode's JavaScript Fundamentals Class Fall 2021",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "mocha",
+    "testAll": "mocha test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbanyCanCodeCourses/JSFunFall2021.git"
+  },
+  "author": "AlbanyCanCode",
+  "bugs": {
+    "url": "https://github.com/AlbanyCanCodeCourses/JSFunFall2021/issues"
+  },
+  "homepage": "https://github.com/AlbanyCanCodeCourses/JSFunFall2021#readme",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1",
+    "sinon": "^11.1.2"
+  }
+}
