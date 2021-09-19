@@ -1,7 +1,7 @@
 import { expect } from "chai";
 import { myName, fixError, add } from "./variables-number-test-helper.js";
 
-describe("exercises/01-intro-variables-numbers/", () => {
+describe("1. Variables and Numbers", () => {
   describe("01-my-name", () => {
     it('should contain a variable "myName" equal to your name', () => {
       const name = myName();
