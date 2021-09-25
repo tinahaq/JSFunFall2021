@@ -28,7 +28,7 @@ At any point, if you see the message "Please tell me who you are" in your comman
 Whenever you are ready to submit your work, commit your changes and push to your forked repository.
 
 ```bash
-git push origin master
+git push origin main
 ```
 
 Follow the guide [Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) to make a pull request. The "original repository you created your fork from" that the guide refers to in Step 1 is the AlbanyCanCodeCourses's repository.

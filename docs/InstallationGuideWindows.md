@@ -17,7 +17,7 @@ Before class began, you should have received emails and training from AlbanyCanC
 
 Before installing Slack, please accept the invite to AlbanyCanCode's channel (_albanycancode_). You should have received an email before class.
 
-Use can use the [web](https://slack.com/get-started?email_first=1#/signin) or desktop version. If you would like to use the desktop version, go to https://slack.com/downloads/windows and click on a download option.
+Use can use the [web](https://albanycancode.slack.com/) or desktop version. If you would like to use the desktop version, go to https://slack.com/downloads/windows and click on a download option.
 
 ## Visual Studio Code (Recommended)
 

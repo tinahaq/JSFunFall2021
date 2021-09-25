@@ -23,7 +23,7 @@ You will need to give Teams permissions for _Screen Recording_, because we ask s
 
 Before installing Slack, please accept the invite to AlbanyCanCode's channel (_albanycancode_). You should have received an email before class.
 
-Use can use the [web](https://slack.com/get-started?email_first=1#/signin) or desktop version. The desktop version can be found in the App Store.
+Use can use the [web](https://albanycancode.slack.com/) or desktop version. The desktop version can be found in the App Store.
 
 ## Xcode
 
