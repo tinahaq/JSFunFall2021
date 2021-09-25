@@ -15,7 +15,7 @@ This course will also introduce you to the tools and practice of the trade. This
 ## Faculty
 
 **Instructors** - Jamal Taylor and Matina Patsos \
-**Program Director** - John Sturman
+**Program Director** - Lee McPeters
 
 ## Course Time & Location
 
