@@ -6,9 +6,13 @@ const fixErrorStr = getAnswer(
 );
 const addStr = getAnswer("../exercises/01-variables-numbers/03-add.js");
 
-const incrementedAgeByAYear = getAnswer("../exercises/01-variables-numbers/04-age-me-by-a-year.js");
+const incrementedAgeByAYear = getAnswer(
+  "../exercises/01-variables-numbers/04-age-me-by-a-year.js"
+);
 
-const decrementAgeByAYearAnswer = getAnswer("../exercises/01-variables-numbers/05-make-me-younger-by-a-year.js");
+const decrementAgeByAYearAnswer = getAnswer(
+  "../exercises/01-variables-numbers/05-make-me-younger-by-a-year.js"
+);
 
 export const myName = eval(`() => {
   ${myNameStr}
@@ -26,11 +30,11 @@ export const add = eval(`(a, b) => {
 }`);
 
 export const ageMeByAYear = eval(`(age)=>{
-${incrementedAgeByAYear}
-return age;
-}`)
+  ${incrementedAgeByAYear}
+  return age;
+}`);
 
 export const makeMeYoungerByAYear = eval(`(age)=>{
-${decrementAgeByAYearAnswer}
-return age;
-}`)
+  ${decrementAgeByAYearAnswer}
+  return age;
+}`);

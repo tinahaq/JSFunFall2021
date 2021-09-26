@@ -1,11 +1,11 @@
-let str = 'Wes Craven';
+let str = "Wes Craven"; // e.g.
 
-/***  store the answer in the variable named lastCharacter using the str variable on line.
- *  ie Washington
- *  should return n
- *
- *
+/***
+ * Create a constant or variable called "lastCharacter". It should be equal to the last character within "str".
+ * @example
+ * let str = "Wes Craven";
+ * "lastCharacter" should equal "n"
+ * Your answer should still work when "str" is equal to something else.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
-let lastCharacter;

@@ -1,9 +1,9 @@
-//Don't change this line.
-let age = 90;
+let age = 90; // e.g.
 
 /**
- * Using the increment operator add 1 to the variable age
- *
+ * Increment the variable "age" by 1. (That is, add 1).
+ * Use the increment operator to solve this problem.
+ * This should still work when "age" is a different number.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE

@@ -9,23 +9,23 @@ const getLastWordInPlaceNameStr = getAnswer(
 
 const convertStringToIntAnswer = getAnswer(
   "../exercises/02-strings/01-convert-string-to-int.js"
-)
+);
 
 const getTheCharacterPositionAnswer = getAnswer(
   "../exercises/02-strings/02-get-the-character-position.js"
-)
+);
 
 const getLastCharacterAnswer = getAnswer(
   "../exercises/02-strings/04-get-last-character.js"
-)
+);
 
 const replaceLastNameAnswer = getAnswer(
   "../exercises/02-strings/06-replace-last-name.js"
-)
+);
 
 const capitalizeLastNameAnswer = getAnswer(
   "../exercises/02-strings/07-capitalize-last-name.js"
-)
+);
 
 export const stringLength = eval(`(str) => {
   ${stringLengthStr}
@@ -37,27 +37,27 @@ export const getLastWordInPlaceName = eval(`(place) => {
   return newPlace;
 }`);
 
-export const convertStringToInt = eval(`(str) => {
+export const convertStringToInt = eval(`(answer) => {
   ${convertStringToIntAnswer}
-  return ageAsAnInteger;
+  return answer;
 }`);
 
-export const getTheCharacterPosition = eval(`(name,letter) => {
+export const getTheCharacterPosition = eval(`(firstName, letter) => {
   ${getTheCharacterPositionAnswer}
   return characterPosition;
-}`)
+}`);
 
 export const getLastCharacter = eval(`(str) => {
   ${getLastCharacterAnswer}
   return lastCharacter;
-}`)
+}`);
 
 export const replaceLastName = eval(`(fullName, newLastName) => {
   ${replaceLastNameAnswer}
   return newFullName;
-}`)
+}`);
 
 export const capitalizeLastName = eval(`(fullName) => {
   ${capitalizeLastNameAnswer}
-  return capitalizeLastName;;
-}`)
+  return capitalizedName;;
+}`);

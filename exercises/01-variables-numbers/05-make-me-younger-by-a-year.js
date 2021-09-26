@@ -1,11 +1,9 @@
-//Don't change this line.
-let age = 90;
+let age = 90; // e.g.
 
 /**
- * Using the decrement operator subtract a year from the age
- *
- *
- *
+ * Decrement the variable "age" by 1. (That is, subtract 1).
+ * Use the increment operator to solve this problem.
+ * This should still work when "age" is a different number.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE

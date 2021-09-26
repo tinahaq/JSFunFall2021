@@ -1,5 +1,11 @@
 import { expect } from "chai";
-import { myName, fixError, add, ageMeByAYear, makeMeYoungerByAYear } from "./variables-number-test-helper.js";
+import {
+  myName,
+  fixError,
+  add,
+  ageMeByAYear,
+  makeMeYoungerByAYear,
+} from "./variables-numbers-test-helper.js";
 
 describe("1. Variables and Numbers", () => {
   describe("01-my-name", () => {
@@ -17,25 +23,23 @@ describe("1. Variables and Numbers", () => {
   });
 
   describe("03-add", () => {
-    it('should contain a variable "sum" equal to the numbers "a" plus "b"', () => {
+    it('should contain a variable or constant "sum" equal to the numbers "a" plus "b"', () => {
       const sum = add(5, 5);
       expect(sum).to.equal(10);
     });
   });
 
-  describe("ageMeByAYear", () => {
-    it("should use the Javascript increment operator to increment the year by a 1", () => {
+  describe("04-age-me-by-a-year", () => {
+    it('should use the increment operator to increment the variable "age" by 1', () => {
       expect(ageMeByAYear.toString().includes("++")).equal(true);
       expect(ageMeByAYear(2019)).equal(2020);
     });
-  })
+  });
 
-  describe("makeMeYoungerByAYear()", () => {
-    it("should use the Javascript decrement operator to decement the age by a 1", () => {
+  describe("05-make-me-younger-by-a-year", () => {
+    it('should use the decrement operator to decrement the variable "age" by 1', () => {
       expect(makeMeYoungerByAYear.toString().includes("--")).equal(true);
       expect(makeMeYoungerByAYear(18)).equal(17);
     });
   });
-
-
 });

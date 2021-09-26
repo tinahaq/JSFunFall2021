@@ -1,11 +1,8 @@
-let str = '55';
+let answer = "55"; // e.g.
 
-/***
- * Convert age from a string to a number using parseInt function
- *  store answer in the variable named str;
- * 
+/**
+ * You will change the value of "answer" below. Cast (convert) "answer", which is a string, so that it is an integer.
+ * This should still work when "answer" is a different numeric value (e.g. "105", "-5", "1.23")
  */
 
-
 // WRITE YOUR ANSWER BELOW THIS LINE
-let ageAsAnInteger;
