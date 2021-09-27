@@ -147,7 +147,7 @@ Restart your terminal. Type `nvm --version`. You should see a version number lik
 
 ## Using NVM
 
-You have NVM installed, but you still need to install Node.js. You will need to have the latest stable version of Node installed as of September 2021 (16.9).
+You have NVM installed, but you still need to install Node.js. You will need to have the latest stable version of Node installed as of September 2021 (16.10).
 
 ```
 nvm install node
