@@ -17,7 +17,7 @@ Add the original repository as a remote to your forked repository:
 ```bash
 cd JSFunFall2021
 git remote add upstream https://github.com/AlbanyCanCodeCourses/JSFunFall2021.git
-git remove -v
+git remote -v
 # You should see your upstream set as https://github.com/AlbanyCanCodeCourses/JSFunFall2021.git
 ```
 
