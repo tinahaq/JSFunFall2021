@@ -4,5 +4,8 @@
 - Matina Patsos
 
 # Students
-John Doe
-Tina Haq
+
+- Ben Rosen
+- Caleb Ruhm
+- Michael Dufek
+- Tina Haq
