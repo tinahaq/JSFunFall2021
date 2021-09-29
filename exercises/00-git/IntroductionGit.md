@@ -4,5 +4,7 @@
 - Matina Patsos
 
 # Students
-John Doe
-Ben Rosen
+
+- Ben Rosen
+- Caleb Ruhm
+- Michael Dufek
