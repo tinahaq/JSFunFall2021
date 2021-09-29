@@ -4,4 +4,6 @@
 - Matina Patsos
 
 # Students
+
 John Doe
+Lawrence Reid
