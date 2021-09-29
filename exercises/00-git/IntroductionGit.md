@@ -4,14 +4,12 @@
 - Matina Patsos
 
 # Students
-John Doe
 
-
-
-
-
-
-
-
-
-Christy Hutchins
+- Ben Rosen
+- Caleb Ruhm
+- Christian Vincent
+- Christy Hutchins
+- Joseph Solomon
+- Lawrence Darwin Reid
+- Michael Dufek
+- Tina Haq
