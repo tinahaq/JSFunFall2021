@@ -4,5 +4,10 @@
 - Matina Patsos
 
 # Students
-John Doe
-Joseph Solomon
+
+- Ben Rosen
+- Caleb Ruhm
+- Christian Vincent
+- Joseph Solomon
+- Michael Dufek
+- Tina Haq
