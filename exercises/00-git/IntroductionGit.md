@@ -5,5 +5,6 @@
 
 # Students
 
+- Ben Rosen
 - Caleb Ruhm
 - Michael Dufek
