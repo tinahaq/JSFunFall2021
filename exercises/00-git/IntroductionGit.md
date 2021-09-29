@@ -12,5 +12,6 @@
 - Eman Naism
 - Joseph Solomon
 - Lawrence Darwin Reid
+- Manuel Blas 
 - Michael Dufek
 - Tina Haq
