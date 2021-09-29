@@ -4,5 +4,6 @@
 - Matina Patsos
 
 # Students
-John Doe
-Caleb Ruhm
+
+- Caleb Ruhm
+- Michael Dufek
