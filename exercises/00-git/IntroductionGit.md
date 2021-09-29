@@ -9,6 +9,7 @@
 - Caleb Ruhm
 - Christian Vincent
 - Christy Hutchins
+- Eman Naism
 - Joseph Solomon
 - Lawrence Darwin Reid
 - Michael Dufek
