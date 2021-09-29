@@ -5,3 +5,4 @@
 
 # Students
 John Doe
+Michael Dufek
