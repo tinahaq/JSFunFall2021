@@ -4,5 +4,14 @@
 - Matina Patsos
 
 # Students
-John Doe
-Manuel Blas 
+
+- Ben Rosen
+- Caleb Ruhm
+- Christian Vincent
+- Christy Hutchins
+- Eman Naism
+- Joseph Solomon
+- Lawrence Darwin Reid
+- Manuel Blas 
+- Michael Dufek
+- Tina Haq
