@@ -5,3 +5,4 @@
 
 # Students
 John Doe
+Joseph Solomon
