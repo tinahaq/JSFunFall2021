@@ -6,4 +6,4 @@
 # Students
 
 John Doe
-Lawrence Reid
+Lawrence Darwin Reid
