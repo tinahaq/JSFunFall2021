@@ -8,5 +8,6 @@
 - Ben Rosen
 - Caleb Ruhm
 - Christian Vincent
+- Joseph Solomon
 - Michael Dufek
 - Tina Haq
