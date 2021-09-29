@@ -8,3 +8,4 @@
 - Ben Rosen
 - Caleb Ruhm
 - Michael Dufek
+- Tina Haq
