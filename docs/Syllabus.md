@@ -79,7 +79,12 @@ If you do not turn in your projects, you may not receive a certificate of comple
 
 ### Assignments
 
-In addition to your projects, you will be completing in-class and take-home assignments. While you will not be graded on these assignments, we encourage that you do your assignments for your personal benefit. We will ask you to submit your work through GitHub pull requests so that we can view your progress.
+In addition to your projects, you will be completing in-class and take-home assignments. While you will not be graded on these assignments, we encourage that you do your assignments for your personal benefit. We will ask you to [submit your work through GitHub pull requests](SubmittingAssignments.md) so that we can view your progress.
+
+You can find a list of assignments inside of Teams.
+
+![Click on Teams in the sidebar and select the class.](img/git-open-team.png)
+![Select assignments on the left and open a an assignment](img/git-open-assignment.png)
 
 ### Getting Help
 
