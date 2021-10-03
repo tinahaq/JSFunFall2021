@@ -6,7 +6,7 @@ You will first need to commit your changes to your local machine. To do this in 
 
 1. Click on the _Git_ icon in the sidebar.
 2. Hover over changes and click on the plus icon. (Or hover over each file that you want to commit and click on the plus icon.)
-3. Give your commit a description name where it says "Message ..."
+3. Give your commit a descriptive name where it says "Message ..."
 4. Click on the checkmark icon above your message.
 
 ![Make a git commit in Visual Studio Code](img/git-commit.png)
