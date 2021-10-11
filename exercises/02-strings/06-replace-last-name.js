@@ -16,3 +16,8 @@ let newLastName = "Washington"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+fullName = fullName.split(" ");
+fullName[1] = newLastName;
+fullName = fullName.join(" ");
+

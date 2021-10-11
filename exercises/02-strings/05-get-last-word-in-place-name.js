@@ -16,3 +16,6 @@ const place = "New Jersey"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+const places = place.split(" ");
+let newPlace = places.at(-1);
