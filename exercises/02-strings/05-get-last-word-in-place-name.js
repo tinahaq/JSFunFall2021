@@ -19,3 +19,4 @@ const place = "New Jersey"; // e.g.
 
 const places = place.split(" ");
 let newPlace = places.at(-1);
+console.log(newPlace);

@@ -240,3 +240,5 @@ yarn.lock
 
 # misc
 *NOCOMMIT*
+exercises/02-strings/fs.txt
+exercises/02-strings/utils.txt
