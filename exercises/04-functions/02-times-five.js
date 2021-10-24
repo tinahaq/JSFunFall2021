@@ -8,6 +8,6 @@
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-function timesFive(num) {
+let timesFive = (num) => {
     return num * 5;
 }

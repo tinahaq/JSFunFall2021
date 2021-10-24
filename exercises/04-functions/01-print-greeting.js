@@ -7,6 +7,6 @@
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-function printGreeting(name) {
+let printGreeting = (name)  => {
     return "Hello " + name + "!";
 }

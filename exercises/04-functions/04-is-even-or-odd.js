@@ -8,3 +8,11 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+let isEvenOrOdd = (num) => {
+    if (num % 2 == 0) {
+        return "even";
+    } else {
+        return "odd";
+    }
+}

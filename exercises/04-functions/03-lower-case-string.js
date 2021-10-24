@@ -10,3 +10,11 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+let lowerCaseString = (str) => {
+    if (typeof str === 'string' || str instanceof String) {
+        return str.toLowerCase();
+    } else {
+        return false;
+
+    }
+}
