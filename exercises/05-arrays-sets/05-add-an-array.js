@@ -6,8 +6,12 @@
  * @example add([1, 2, 3]); // 6
  */
 
+ let number = 0;
+
 const add = (numbers) => {
-  // WRITE YOUR ANSWER HERE
+  for (let i = 0; i < numbers.length; i++) {
+    number += numbers[i];  }
+  return number;
 };
 
 // IGNORE THIS BELOW. It is for the tests.
