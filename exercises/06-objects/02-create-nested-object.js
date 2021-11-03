@@ -32,7 +32,16 @@ const createGraduateObject = (
   githubLink,
   linkedInLink
 ) => {
-  // WRITE YOUR ANSWER HERE
+  let graduateObject = {
+    name: name,
+    graduationYear: graduationYear,
+    skills: skills,
+    links: {
+        github: githubLink,
+        linkedIn: linkedInLink
+    }
+}
+ return graduateObject;
 };
 
 // IGNORE THIS BELOW. It is for the tests.

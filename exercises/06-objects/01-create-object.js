@@ -8,3 +8,10 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+let myDog = {
+    name: "Pongo",
+    breed: "Dalmatian",
+    age: 101,
+    owners: ["people who are friends with Cruella de Vil for some reason", "Cruella de Vil"]
+}

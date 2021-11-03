@@ -18,7 +18,9 @@
  */
 
 const returnObjectValues = (blogPost) => {
-  // WRITE YOUR ANSWER HERE
+  for (let i in blogPost) {
+    return blogPost[i];
+  }
 };
 
 // IGNORE THIS BELOW. It is for the tests.

@@ -11,6 +11,8 @@
  */
 
 const combineObjects = (obj1, obj2) => {
+  let obj3 = {...obj1, ...obj2};
+  return obj3;
   // WRITE YOUR ANSWER HERE
 };
 

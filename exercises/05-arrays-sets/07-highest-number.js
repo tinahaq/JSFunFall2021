@@ -8,8 +8,10 @@
  *
  */
 
-const highestNumber = (numbers) => {
-  
+const highestNumber = (arr) => {
+  //numbers = [1, 2, 3, 4];
+  let highNum = Math.max(...arr);
+  return highNum;
 };
 
 // IGNORE THIS BELOW. It is for the tests.

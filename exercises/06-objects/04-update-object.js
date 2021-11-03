@@ -15,3 +15,9 @@ let student = {
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+student["name"] = "Tina Haq";
+
+student["skills"].push("singing");
+
+console.log(student)
