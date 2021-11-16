@@ -18,6 +18,9 @@
  * user.email = "icanhascheeseburger@yahoo.com"; // This should not change newUser
  */
 const changeEmail = (user, newEmail) => {
+  const changeUser = {...user};
+  changeUser.email = newEmail;
+  return changeUser;
   // WRITE YOUR ANSWER HERE
 };
 
