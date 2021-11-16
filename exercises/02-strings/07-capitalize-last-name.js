@@ -14,7 +14,7 @@ let fullName = "John smith"; // e.g.
 
 
 fullName = fullName.split(" ");
-fullName = fullName[0] + " " + fullName[1].at(0).toUpperCase() + fullName[1].substring(1);
+fullName = fullName[0].at(0).toUpperCase() + fullName[0].substring(1) + " " + fullName[1].at(0).toUpperCase() + fullName[1].substring(1);
 
 
 //Can't use .join() for some reason.
